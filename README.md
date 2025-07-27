@@ -73,7 +73,7 @@ Global filters/slicers:
 All pages are fully interactive—clicking on charts will update related visuals.
 
 - ## Report
-- <img width="587" height="323" alt="Technical Support _1" src="https://github.com/user-attachments/assets/cef519cc-aab0-4f82-8ba6-cce6c032c57b" />
+<img width="587" height="323" alt="Technical Support _1" src="https://github.com/user-attachments/assets/cef519cc-aab0-4f82-8ba6-cce6c032c57b" />
 <img width="590" height="325" alt="Technical Support _2" src="https://github.com/user-attachments/assets/8b8000fd-feb7-4d5d-b7c3-1c012784fb23" />
 <img width="585" height="328" alt="Technical Support _3" src="https://github.com/user-attachments/assets/eb9da282-10ec-41dc-8c6a-f3f1928ad7d8" />
 
